@@ -16,4 +16,4 @@ The purpose of this repository is to strengthen my programming fundamentals, imp
 - Field of Study:Bachelor Computer Applications of Data Science
 
 ## Note
-This repository is intended for learning and academic purposes.
+This repository showcases my academic learning and hands-on practice as an undergraduate student and is actively maintained as I continue to develop my programming and problem-solving skills.
